@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040248
+# Name:PRAVEENA D
+# Date:19.05.2025
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+![image](https://github.com/user-attachments/assets/ad091e15-bfa1-4175-bee7-0d7cfe04632b)
 
 
 
@@ -57,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+![image](https://github.com/user-attachments/assets/797e411b-8ffa-4b9d-9ae7-6a12d9ac6bbc)
 
 
 
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![image](https://github.com/user-attachments/assets/98a46bb9-c467-428e-953d-995b5c940d88)
 
 
 
@@ -76,6 +79,7 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+![image](https://github.com/user-attachments/assets/d6e4c628-eb6a-4228-9c72-56ad4aca64b3)
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![image](https://github.com/user-attachments/assets/71f2bf0e-4148-4371-9c29-62e6e1a0b510)
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![image](https://github.com/user-attachments/assets/9c69a2b1-8522-42fc-b25e-d032fabbbbe9)
 
 
 
